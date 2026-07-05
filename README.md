@@ -1,6 +1,6 @@
 # AI Research Paper Assistant (RAG + NLP + Gemini)
 
-An end-to-end AI system that retrieves research papers using semantic search, extracts keywords and entities, summarizes content, and generates final intelligent explanations using Google Gemini.
+> An end-to-end AI system that retrieves research papers using semantic search, extracts keywords and entities, summarizes content, and generates final intelligent explanations using Google Gemini.
 ---
 ## Project Overview
 
