@@ -16,22 +16,23 @@ This demonstrates a real-world **hybrid NLP + LLM architecture**.
 ---
 
 ## System Architecture
-User Query
-   ↓
-Sentence Transformer (Embeddings)
-   ↓
-FAISS Vector Search
-   ↓
-Top 5 Research Papers
-   ↓
-Keyword Extraction
-   ↓
-BART Summarization (per paper)
-   ↓
-Google Gemini API (Final reasoning & synthesis)
-   ↓
-Entity + Keyword Aggregation
-   ↓
+
+User Query <br>
+↓ <br>
+Sentence Transformer (Embeddings) <br>
+↓ <br>
+FAISS Vector Search <br>
+↓ <br>
+Top 5 Research Papers <br>
+↓ <br>
+Keyword Extraction <br>
+↓ <br>
+BART Summarization (per paper) <br>
+↓ <br>
+Google Gemini API (Final reasoning & synthesis) <br>
+↓ <br>
+Entity + Keyword Aggregation <br>
+↓ <br>
 Final Structured Output
 
 ## Key Features
