@@ -47,7 +47,7 @@ Final Structured Output
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - Python
 - Sentence Transformers  
